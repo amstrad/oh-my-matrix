@@ -10,8 +10,8 @@ Turns your terminal into a matrix script.
 
 
 #### Requirements 
--oh-my-zsh
--Python (Run "python" into your terminal to confirm you have python installed)
+- oh-my-zsh
+- Python (Run "python" into your terminal to confirm you have python installed)
 
 
 #### Install 

@@ -29,7 +29,7 @@ Turns your terminal into a matrix script.
         source ~/.zshrc
 
 
-#### Then simply start script running:
+#### Start script running:
 
         matrix
 

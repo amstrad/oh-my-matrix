@@ -1,8 +1,11 @@
 ![alt text](oh-my-matrix.gif)
 
 
-# Oh My Matrix 😎
+# Oh My Matrix 😎 
 
+original code adapted from juancarlospaco:
+  - http://ubuntuforums.org/showpost.php?p=10306676
+  
 [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) Matrix plugin based on [Corey Golderg Python script](http://coreygoldberg.blogspot.com/2013/01/python-matrix-in-your-terminal.html).
 
  
